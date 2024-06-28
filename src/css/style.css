@@ -156,7 +156,7 @@ body{
         grid-template-rows: repeat(1, 1fr);
     }
     iframe{
-        width: 100%;
+        width: 40vh;
     }
 }
 
@@ -242,7 +242,7 @@ b{
     }
 }
 
-@media (max-width:450px){
+@media (max-width:425px){
     .rules{
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
