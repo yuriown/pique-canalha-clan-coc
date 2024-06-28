@@ -150,7 +150,7 @@ body{
     color: #FFC600;
     text-shadow: 1px 1px 7px #000;
 }
-@media(max-width:450px){
+@media(max-width:425px){
     .about .item{
         text-align: center;
     }
@@ -213,7 +213,7 @@ b{
     background-color: grey;
 }
 
-@media (max-width: 450px){
+@media (max-width: 425px){
     .about{
         grid-template-columns: 1fr;
     }
@@ -243,7 +243,7 @@ b{
     }
 }
 
-@media (max-width:500px){
+@media (max-width:425px){
     .rules{
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
